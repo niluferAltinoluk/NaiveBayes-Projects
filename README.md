@@ -1,5 +1,5 @@
 ## Project
-In this project, we worked on email-spam dataset. We trained our dataset with naive bayes algorithms. 
+We trained our datasets with naive bayes algorithms. 
 
 ## Python Packages Used
 * Pandas: For data manipulation and analysis.
@@ -20,8 +20,7 @@ In this project, we worked on email-spam dataset. We trained our dataset with na
 * Checking the best n bins value for categorical naive bayes (diabetes)
 
 ## Results and evaluation 
-In this project, we trained our email-spam dataset. We observed the results of our various naive bayes algorithms. 
-The accuracy in Multinomial Naive Bayes and Bernoulli Naive Bayes was higher than that in Gaussian Naive Bayes. 
+In this project, we trained our datasets. We observed the results of our various naive bayes algorithms. 
 
 ## Comparison of Naive Bayes algorithms
 Naive Bayes classifiers assume that features are conditionally independent of each other.
