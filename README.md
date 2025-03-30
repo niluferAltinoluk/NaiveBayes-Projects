@@ -12,11 +12,12 @@ In this project, we worked on email-spam dataset. We trained our dataset with na
 * Exploratory Data Analysis (EDA) - Pie Chart
 * Split Data into Features (X) and Target (y)
 * Split Data into Training and Testing Sets
-* Text Vectorization using CountVectorizer
+* Vectorization
 * Feature Binarization for Bernoulli Naive Bayes
 * Train and Evaluate Multinomial Naive Bayes
 * Train and Evaluate Gaussian Naive Bayes
 * Train and Evaluate Bernoulli Naive Bayes
+* Checking the best n bins value for categorical naive bayes (diabetes)
 
 ## Results and evaluation 
 In this project, we trained our email-spam dataset. We observed the results of our various naive bayes algorithms. 
