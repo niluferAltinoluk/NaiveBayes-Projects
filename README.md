@@ -1,4 +1,4 @@
-I ## Project
+## Project
 In this project, we worked on email-spam dataset. We trained our dataset with naive bayes algorithms. 
 
 ## Python Packages Used
